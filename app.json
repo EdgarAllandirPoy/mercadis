@@ -2,7 +2,12 @@
   "expo": {
     "name": "mercadao",
     "slug": "mercadao",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "415a4bfb-c606-4710-b5de-e2aa86ea42bf"
+      }
+    }
   },
   "name": "mercadao"
 }
